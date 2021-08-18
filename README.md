@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jacek, Junior Python Developer</h1>
+<h1> Hey! I'm Jacek, Junior Python Developer</h1>
 
 <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="385px" align="right">
 <!-- https://media.giphy.com/media/9B8wYztAoe1zO/source.gif -->
