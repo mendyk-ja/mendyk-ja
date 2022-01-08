@@ -4,7 +4,7 @@
 <!-- https://media.giphy.com/media/9B8wYztAoe1zO/source.gif -->
 <!--<img src="https://thumbs.gfycat.com/EnragedGoodEmeraldtreeskink-size_restricted.gif" width="385px" align="right">-->
 
-*After 5 years of studies at technical university I decided to move forward and develop further my IT skills in the field of Python development. I have finished the Python course from Software Development Academy in June, 2021 and happy to work as Python Backend Developer.
+After 5 years of studies at technical university I decided to move forward and develop further my IT skills in the field of Python development. I have finished the Python course from Software Development Academy in June, 2021 and happy to work as Python Backend Developer.
 
 - 🌱 &nbsp;&nbsp;Personality: fast learner, stress-resistant, team-worker
 - 🔎 &nbsp;&nbsp;Hobby: learning languages 
